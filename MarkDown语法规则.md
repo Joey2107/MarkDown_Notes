@@ -1,5 +1,6 @@
 ##### Typora软件
-    实时查看MD代码编辑效果，再也不用在github上左右横跳预览修改。
+    实时查看MD代码编辑效果，再也不用在github上左右横跳预览修改。但是github目前仅支持HTML的部分元素（目前支持的 HTML 元素有：<kbd> <b> <i> <em> <sup> <sub> <br>等 ，
+    如果要使用其他元素，还是要以HTML编写。
 
 # 一级标题
     语法规则：#，一个空格，标题内容
@@ -47,7 +48,7 @@
 ##### 圆点
    * ***We choose to go to the moon,We choose to go to the moon,We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard...***  
    
-   <font face="微软雅黑"><font color="apple">___复读使人强大，同样一句话，只说一句“我们选择登月”显得略有苍白，说三句给人的感觉就像这段话加粗又高亮还多彩___</font></font>
+   <font face="微软雅黑"><font color="apple">___复读使人强大，同样一句话，只说一句“我们选择登月”显得略有苍白，<kbd>**说三句给人的感觉就像这段话加粗又高亮**</kbd>___</font></font>  
     
     语法规则：在行首加入*和一个空格；次级标题在*号前加入一个tab。依次类推。
     
