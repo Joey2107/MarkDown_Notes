@@ -46,7 +46,10 @@
       
 ##### 圆点
    * ***We choose to go to the moon,We choose to go to the moon,We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard...***  
-   <font face="微软雅黑"><font color="#dd00dd">___复读使人强大，同样一句话，只说一句“我们选择登月”显得略有苍白，说三句给人的感觉就像这段话加粗又高亮还多彩___</font></font>
+   
+   <font face="微软雅黑"><font color="apple">___复读使人强大，同样一句话，只说一句“我们选择登月”显得略有苍白，说三句给人的感觉就像这段话加粗又高亮还多彩___</font></font>
+    
+    语法规则：在行首加入*和一个空格；次级标题在*号前加入一个tab。依次类推。
     
 ##### 插入图片
     语法规则：![自定义]（图片链接）；但是貌似上传图片到repo，好像也无法正常显示。网上改写hosts文件，进行DNS重映射的方法，试过也不行。可能被防火墙拦截了。
