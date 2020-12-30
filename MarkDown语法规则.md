@@ -60,3 +60,8 @@
     <https://datatracker.ietf.org/doc/rfc5970>
     语法规则：[自定义]（链接）
 
+##### 代码
+```python
+print("Hello World!")
+```
+    语法规则：在代码段前后加上```，并在后面加上python或指定其他语言（若不指定语言，在github上代码会有颜色区分，显示效果和普通字符没有区别）。
